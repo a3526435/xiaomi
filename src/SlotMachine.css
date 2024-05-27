@@ -1,0 +1,13 @@
+.slot-machine {
+  text-align: center;
+}
+
+.reels {
+  display: flex;
+  justify-content: center;
+}
+
+.reel {
+  margin: 0 10px;
+  font-size: 2rem;
+}
