@@ -1,0 +1,13 @@
+.leaderboard {
+  text-align: center;
+}
+
+.leaderboard ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.leaderboard li {
+  margin: 5px 0;
+  font-size: 1.2rem;
+}
